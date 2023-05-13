@@ -18,15 +18,12 @@
   <a href = "mailto:henp9999@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   </div> 
 
-  </div>
-<br>
-<dl>
-<dd>- 🌱 Atualmente estou aprendendo: HTML5, CSS3 e um pouquinho de JavaScript</dd>
-<dd>- 👯 A procura de mudar o mundo com tecnologia</dd>
-<dd>- 🤔 Qualquer sugestão e duvidas sobre projetos é bem-vinda</dd>
-  <dd>- 😄 Pronomes: Ele/Dele </dd>
-  <br>
-</dl>
-  
+ Olá! Meu nome é Henrique Porto e sou um desenvolvedor Junior focado na área de Front-End. Sou uma pessoa muito curiosa e adoro aprender sobre diferentes assuntos, especialmente na área de tecnologia.
+
+Atualmente, estou estudando HTML5, CSS3 e JavaScript, além de estar sempre procurando aprender novas técnicas e tecnologias para melhorar minhas habilidades como desenvolvedor. Meus projetos pessoais estão hospedados em meu portfólio, onde posso demonstrar minhas habilidades e conhecimentos.
+
+Além disso, estou sempre disposto a colaborar com projetos open-source e contribuir para a comunidade de desenvolvimento. Acredito que é importante compartilhar conhecimento e ajudar outros desenvolvedores em suas jornadas de aprendizado.
+
+Se você está procurando um desenvolvedor curioso, dedicado e sempre em busca de aprender e crescer, fique à vontade para conferir meu perfil e meus projetos. Estou sempre aberto para novas oportunidades e desafios!
   <p>Creditos:</p>
   <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
